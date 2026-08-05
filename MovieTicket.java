@@ -8,6 +8,7 @@ public class MovieTicket {
 
 	void bookTicket() {
 		booking = true;
+		System.out.println("ticket booked");
 
 	}
 
@@ -22,7 +23,7 @@ public class MovieTicket {
 		System.out.println("movieName:" + movieName);
 		System.out.println("seatNumber:" + seatNumber);
 		System.out.println("booking:" + booking);
-		System.out.println("ticket booked");
+		
 
 	}
 
