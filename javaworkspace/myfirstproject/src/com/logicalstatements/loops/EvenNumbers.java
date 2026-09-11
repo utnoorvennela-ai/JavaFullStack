@@ -1,7 +1,7 @@
 package com.logicalstatements.loops;
 
 //WAP to print even numbers from 0 to 100
-public class TestLPDemo1 {
+public class EvenNumbers {
 
 	public static void main(String[] args) {
 		for (int i = 1; i <= 100; i++) {
